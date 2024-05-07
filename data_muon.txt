@@ -1,0 +1,12 @@
+người mượn: THANH
+tiêu đề sách: kkkk
+id sách: 123
+thời gian mượn 12-04-2024 00:30:33
+người mượn: dd
+tiêu đề sách: dd
+id sách: dd
+thời gian mượn 12-04-2024 00:32:04
+người mượn: d
+tiêu đề sách: d
+id sách: d
+thời gian mượn 12-04-2024 00:34:21
